@@ -1,5 +1,5 @@
-import { View } from 'react-native';
-
+import React from 'react';
+import Rotas from './routes/navigation';
 
 export default function Index() {
   return (
